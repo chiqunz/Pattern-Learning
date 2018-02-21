@@ -1,0 +1,1 @@
+Based on dataset from Kaggle competition: Integer Sequence Learning. This would be a good touch on for pattern learning problem.S
